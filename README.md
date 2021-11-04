@@ -1,4 +1,4 @@
-# s3-rss
+# 🔊 s3-rss
 
 Do you have a bunch of really old podcast files on your computer that doesn't have an RSS-feed anymore? No? Well then. With this script you can create a static RSS feed hosted on AWS S3 in just 5 easy steps:
 
